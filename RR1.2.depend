@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1794517172 source:d:\Список Лабораторних інфа\rr1.2\main.c
+	<stdio.h>
+	<windows.h>
+
